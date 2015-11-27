@@ -10,3 +10,6 @@
 [submodule "dial_navigation"]
 	path = dial_navigation
 	url = /opt/bitnami/apps/moodle/htdocs/blocks/dial_navigation/
+[submodule "dial_course_creation"]
+	path = dial_course_creation
+	url = /opt/bitnami/apps/moodle/htdocs/blocks/dial_course_creation/
