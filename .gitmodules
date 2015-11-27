@@ -1,0 +1,12 @@
+[submodule "dial_reports"]
+	path = dial_reports
+	url = /opt/bitnami/apps/moodle/htdocs/blocks/dial_reports/
+[submodule "dial_rewards"]
+	path = dial_rewards
+	url = /opt/bitnami/apps/moodle/htdocs/blocks/dial_rewards/
+[submodule "dial_start"]
+	path = dial_start
+	url = /opt/bitnami/apps/moodle/htdocs/blocks/dial_start/
+[submodule "dial_navigation"]
+	path = dial_navigation
+	url = /opt/bitnami/apps/moodle/htdocs/blocks/dial_navigation/
